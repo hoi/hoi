@@ -1,6 +1,6 @@
 ### I'm Hyon Lee 👋
 
-My main interest is in learning what makes certain companies successful, and, more broadly, how to create a high-functioning organization.  I am currently the Software Architect at LTSE leading the development of Exchange Software, which includes the Matching Engine, FIX Gateways, SIP Connectivity and more.  We are just getting started, so if you are interested, please drop me a note!
+Intro coming soon.
 
 <br/>
 <a href="https://www.linkedin.com/in/hyonlee/">
