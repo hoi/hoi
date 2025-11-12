@@ -1,3 +1,7 @@
-### I'm Hyon Lee 👋
+### About Me
 
-Intro coming soon.
+I co-founded the 14th US National Securities Exchange (Long-Term Stock Exchange) with Eric Ries, where we built a fully regulated trading system from scratch. We started with 6 Raspberry Pis in a hotel room and scaled to production at a major data center in northern New Jersey where financial institutions colocate, maintaining 100% test coverage and rulebook-as-executable-tests throughout. Later, at Citadel, I led the team replacing their 30-year-old global position management system, serving the entire firm with modern infrastructure while maintaining the discipline that high-stakes financial systems demand. These experiences taught me that lean and rigor aren’t opposing forces—they’re complementary. You can build robust, enterprise-grade systems while keeping the process lean, answering critical questions upfront to prevent costly technical debt later.
+
+Now I’m applying that same philosophy to AI development. I’m building production RAG systems, highly scalable low-latency agentic systems, and experimenting with self-hosted infrastructure to understand real economics and performance tradeoffs. The AI field is filled with marketing hype and tutorial-grade examples that ignore the observability, testing, and guardrails that financial systems solved decades ago. Through this blog, I want to cut through the noise and show how to build production-grade AI systems using proven engineering practices. Whether you’re working on regulated enterprise systems or personal projects, these practices ensure you get it right the first time.
+
+Subscribe to my [blog](https://fortleeai.substack.com/publish/settings/edit?title=About%20page&bodyField=subscribe_content&redirect=https%3A%2F%2Ffortleeai.substack.com%2Fabout) to stay up-to-date!
